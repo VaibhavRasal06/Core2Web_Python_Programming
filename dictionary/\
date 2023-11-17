@@ -1,0 +1,4 @@
+player = {45:"Rohit", 77:"Shubhman", 18:"Virat",96:"Shreyash"}
+
+print(player)
+print(type(player))
