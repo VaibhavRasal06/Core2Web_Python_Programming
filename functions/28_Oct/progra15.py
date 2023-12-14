@@ -1,4 +1,4 @@
-# Name/ Arguyment Parameter
+# Name/ Argument Parameter
 
 # variable number arguments to a functions
 
